@@ -31,6 +31,10 @@ const props = {
   zoomOnClick: {
     type: Boolean,
     twoWay: false
+  },
+  averageCenter: {
+    type: Boolean,
+    twoWay: false
   }
 }
 
